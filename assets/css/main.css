@@ -109,7 +109,7 @@ header{
 }
 
 .tagline{
-    margin: 20px 0px 22px 0px;
+    margin: 20px 0px 10px 0px;
     text-align: right;
 }
 
@@ -120,6 +120,12 @@ header{
     text-transform: uppercase;
     word-spacing: 3px;
     float: right;
+}
+
+.primary-nav li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
 }
 
 #main-head{
